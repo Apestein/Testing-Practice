@@ -1,0 +1,24 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "unit testing with Jest",
+  "main": "assignment.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apestein/Testing-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Apestein/Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/Apestein/Testing-Practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.19.3",
+    "jest": "^29.1.2"
+  }
+}
